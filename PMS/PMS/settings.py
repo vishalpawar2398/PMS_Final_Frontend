@@ -82,7 +82,7 @@ WSGI_APPLICATION = 'PMS.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Productmanagement',
+        'NAME': 'productmanagement',
         'USER':'admin',
         'PASSWORD':'rootroot',
         'HOST':'productmanagement.cpgsscec2l3a.ap-south-1.rds.amazonaws.com',
